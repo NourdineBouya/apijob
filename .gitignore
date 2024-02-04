@@ -1,0 +1,31 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file (if you're using dotenv)
+.env
+
+# Editor directories
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Mac OS files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# IDE files
+*.iml
+*.ipr
+*.iws
+
+# Compiled JavaScript files
+*.js
+
+# Production build folder (if you compile your client-side code)
+dist/
+
+# Any other temporary or generated files
