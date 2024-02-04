@@ -15,7 +15,7 @@ app.use('/api' , require('./routes/UserRouter'))
 app.use('/api' , require('./routes/SocieteRoute'))
 app.use('/api' , require('./routes/JobsRoute'))
 
-mongoose.connect("mongodb+srv://bouya:bouya@cluster0.ocn6nng.mongodb.net/").then(()=> {
+mongoose.connect("url+password").then(()=> {
     console.log('connected to the database')
 }).catch(()=> {
     console.log('connection failed')
