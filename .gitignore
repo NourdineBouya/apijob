@@ -21,9 +21,7 @@ Thumbs.db
 *.iml
 *.ipr
 *.iws
-
-# Compiled JavaScript files
-*.js
+ 
 
 # Production build folder (if you compile your client-side code)
 dist/
